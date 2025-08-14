@@ -6,4 +6,4 @@ Designed and trained a deep learning model with multiple LSTM and Dropout layers
 
 Built an interactive web application using the Streamlit framework, allowing users to input any stock ticker symbol and visualize historical data, moving averages (MA50, MA100, MA200), and the model's price predictions.
 
-Successfully integrated the trained model into the web application, demonstrating an end-to-end machine learning project from data acquisition and model development to deployment.
+Successfully integrated the trained model into the web application, demonstrating an end-to-end machine learning project from data acquisition and model development.
